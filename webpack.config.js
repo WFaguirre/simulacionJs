@@ -4,7 +4,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin'),
   MiniCssExtractPlugin = require('mini-css-extract-plugin');
 
 module.exports = {
-  entry: './app/index.js', // Archivo de entrada de la aplicación
+  entry: './app/scenes/index.js', // Archivo de entrada de la aplicación
   output: { // Configuración de salida, o sea, donde se guardará el bundle
     path: path.resolve(__dirname, 'bundle'), // Directorio de salida
     filename: 'bundle.js', // Nombre del archivo de salida
