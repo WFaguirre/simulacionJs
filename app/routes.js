@@ -1,6 +1,8 @@
+import { HomePage } from "./App/HomePage"
+
 export const routes = {
     public: [
-        {path: '/', page: }
+        {path: '/', page: HomePage }
     ],
     private: [
 
