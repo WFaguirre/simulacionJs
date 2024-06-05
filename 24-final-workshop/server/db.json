@@ -1,4 +1,67 @@
 {
-    "users": [],
-    "tasks": []
+  "users": [
+    {
+      "id": "add7",
+      "userName": "marcodiano",
+      "userEmail": "fe.aguirre.agudelo@gmail.com",
+      "userPassword": "Federic@1152"
+    },
+    {
+      "id": "e8bf",
+      "userName": "marcodiano",
+      "userEmail": "fe.aguirre.agudelo@gmail.com",
+      "userPassword": "Federic@1152"
+    },
+    {
+      "id": "c8a8",
+      "userName": "bananito",
+      "userEmail": "fe.aguirre.agudelo@gmail.com",
+      "userPassword": "Federic@1152"
+    },
+    {
+      "id": "a1a9",
+      "userName": "bananito",
+      "userEmail": "fe.aguirre.agudelo@gmail.com",
+      "userPassword": "Federic@1152"
+    },
+    {
+      "id": "f0e1",
+      "userName": "kikoflow",
+      "userEmail": "fe.aguirre.agudelo@gmail.com",
+      "userPassword": "U2FsdGVkX1/6IYUL0CDUrf4dKYP0tOUppEPv5sZc68k="
+    },
+    {
+      "id": "e738",
+      "userName": "melocoton",
+      "userEmail": "wafaguirre29@gmail.com",
+      "userPassword": "U2FsdGVkX18Tb6MQmClP/kNvQ8g5DVRt3fcJ52pEkgM="
+    },
+    {
+      "id": "0dae",
+      "userEmail": "fe.aguirre.agudelo@gmail.com",
+      "userPassword": "U2FsdGVkX19a+rnscVmALiux2dmB/vgIzvohab5Fe84="
+    },
+    {
+      "id": "bba4",
+      "userEmail": "fe.aguirre.agudelo@gmail.com",
+      "userPassword": "U2FsdGVkX19vAOCj3nKPAZLMH1G/qn6EZSnWmxX8/2I="
+    },
+    {
+      "id": "eae9",
+      "userEmail": "fe.aguirre.agudelo@gmail.com",
+      "userPassword": "U2FsdGVkX18Ko01jLXbS5Nm83+BOKA00VqsbjvgTGE8="
+    },
+    {
+      "id": "5cfe",
+      "userEmail": "fe.aguirre.agudelo@gmail.com",
+      "userPassword": "U2FsdGVkX18CRMd/ZRcbxSlaJiFT0Fqs1tTS551bmYE="
+    },
+    {
+      "id": "2c34",
+      "userName": "cosita",
+      "userEmail": "fe.aguirre.agudelo@gmail.com",
+      "userPassword": "12345678"
+    }
+  ],
+  "tasks": []
 }
